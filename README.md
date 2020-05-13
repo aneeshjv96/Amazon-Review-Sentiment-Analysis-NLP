@@ -33,7 +33,8 @@
   d. Logistic Regressor Classification
 
 ## Model improvement
-The data i.e *Clothing_small.json* has generated a very low f1scores hence, I decided to re-model the data using bigger data having 20000 reviews set - *Clothing_20000.json* 
+- The data i.e *Clothing_small.json* has generated a very low f1scores hence, I decided to re-model the data using bigger data having 20000 reviews set - *Clothing_20000.json* 
+- After uploading this file I created a evely distributing function that distributed even number of 'POSITIVE' & 'NEGATIVE' reviews which numbered at 1637 each.
 
 ## Data Evaluation
 - Verified the model using r2 and f1 scores and with few examples
