@@ -38,5 +38,6 @@ The data i.e *Clothing_small.json* has generated a very low f1scores hence, I de
 - Verified the model using r2 and f1 scores and with few examples
 
 *-f1-score - **Logistic classification** : Postive - 0.89; Negative - 0.48*
+
 *-f1-score - **Linear support vector classification** : Postive - 0.89; Negative - 0.49*
 
