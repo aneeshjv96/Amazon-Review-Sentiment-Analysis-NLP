@@ -1,7 +1,7 @@
 # Amazon Review Sentiment Analysis
 
 
-**The Note is uploaded under the name *'Sentiment Analysis.ipynb'***
+**The Code Notebook is uploaded under the name *'Sentiment Analysis.ipynb'***
 
 **Code used to extract 20000 data sets from larget review set is under the name *Clothing_20000.ipynb***
 
