@@ -41,9 +41,9 @@
 
 ***Logistic classification-***
 - *f1-score -: Postive - 0.89; Negative - 0.49*
-- *R2 score = 0.824*
+- *Accuracy score = 0.824*
 
 ***Linear support vector classification-***
 - *f1-score -: Postive - 0.89; Negative - 0.48*
-- *R2 score = 0.823*
+- *Accuracy score = 0.823*
 
